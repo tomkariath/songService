@@ -1,0 +1,7 @@
+insert into artist values (1, 'Coldplay')
+insert into artist values (2, 'OneRepublic')
+insert into artist values (3, 'BoyZone')
+insert into song values (1, 'A Head Full of Dream','Birds', TO_DATE('17/12/2015', 'DD/MM/YYYY'), 1)
+insert into song values (2, 'Native', 'Counting Stars', TO_DATE('04/08/2013', 'DD/MM/YYYY'), 2)
+insert into song values (3, 'A Rush of Blood to the Head', 'The Scientis', TO_DATE('01/04/2002', 'DD/MM/YYYY'), 1)
+insert into song values (4, 'A Different Beat', 'Words', TO_DATE('07/07/1996', 'DD/MM/YYYY'), 3)
